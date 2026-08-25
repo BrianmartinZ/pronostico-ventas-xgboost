@@ -1,4 +1,4 @@
-# Pronóstico de ventas y optimización de inventario
+# Pronóstico de ventas y diagnóstico de inventario
 
 Predicción mensual de ventas para **250 productos** con **XGBoost** y pronóstico
 recursivo, junto con el cálculo de stock de seguridad y punto de reorden para
