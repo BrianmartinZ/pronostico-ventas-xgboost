@@ -22,17 +22,6 @@ Fuente: [Warehouse Cost Optimization - Pharmaceutical Company](https://www.kaggl
 | `data/products_parameters.csv` | Parámetros por producto: precio, vida útil, lead time, stock de seguridad. |
 | `data/financial_plan.csv` | Plan financiero anual 2023–2025 (baseline de comparación). |
 
-## Estructura del proyecto
-
-Proyecto_04/
-├── data/                 # Datos crudos
-├── notebooks/
-│   ├── proyecto.ipynb    # Pipeline completo
-│   └── funciones.py      # Funciones auxiliares
-├── predicciones_2026.csv # Entregable final
-├── requirements.txt      # Dependencias
-└── README.md
-
 ## Pipeline (qué se hizo)
 
 1. **EDA**: formato ancho → largo, separación de ventas e inventario.
