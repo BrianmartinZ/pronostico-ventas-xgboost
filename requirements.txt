@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
+nbformat
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Visualizacion
+plotly
+
+# modelo avanzado
+xgboost
