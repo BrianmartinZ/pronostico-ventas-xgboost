@@ -33,7 +33,7 @@ Fuente: [Warehouse Cost Optimization - Pharmaceutical Company](https://www.kaggl
 ## Resultados
 
 - Validación del modelo para 2025: **MAE 24.43 / RMSE 56.62 unidades**.
-- Pérdida estimada por quiebres de stock en 2025: **23.973 PLN**.
+- Pérdida estimada por quiebres de stock en 2025: **5.715 PLN** (acumulado 2023–2025: **24.538 PLN**).
 - Pronóstico 2026 exportado en `predicciones_2026.csv` (unidades y PLN por producto/mes).
 
 ## Comparación con el plan de la compañía (2025)
